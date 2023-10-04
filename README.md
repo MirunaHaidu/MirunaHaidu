@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Harvard CS50](https://github.com/MirunaHaidu/Harvard-C)
+- 🔭 I’m currently working on [small projects using C](https://github.com/MirunaHaidu/Harvard-C)
 
 - 🌱 I’m currently learning **Java, Python, C, Angular**
 
