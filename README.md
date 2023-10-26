@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/MirunaHaidu/odin-recipes)
 
-- 🌱 I’m currently learning **Java, Python, C, Angular**
+- 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScript**
 
 - 👩‍💻 All of my projects are available at [https://github.com/MirunaHaidu?tab=repositories](https://github.com/MirunaHaidu?tab=repositories)
 
