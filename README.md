@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Learning Python](https://github.com/MirunaHaidu/Python-learning)
+- 🔭 I’m currently working on [The Odin Project](https://github.com/MirunaHaidu/odin-recipes)
 
 - 🌱 I’m currently learning **Java, Python, C, Angular**
 
