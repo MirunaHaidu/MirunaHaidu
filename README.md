@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [The Odin Project](https://github.com/MirunaHaidu/odin-recipes)
+- 🔭 I’m currently working on Learning React!
 
 - 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScript**
 
